@@ -1,1 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment Solution for Module 2</title>
+    <link rel="stylesheet" href="css.css" type="text/css">
+</head>
+<body>
+
+<h1>Our Menu</h1>
+
+<div class="row">
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <div class="section">
+            <h2 class="chicken section-title">Chicken</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At blanditiis consequuntur eum, eveniet expedita, explicabo illo iste magnam nisi, non officiis optio pariatur ratione repellendus sequi sit tempore tenetur ullam.</p>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <div class="section">
+            <h2 class="beef section-title">Beef</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At blanditiis consequuntur eum, eveniet expedita, explicabo illo iste magnam nisi, non officiis optio pariatur ratione repellendus sequi sit tempore tenetur ullam.</p>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-12 col-sm-12">
+        <div class="section">
+            <h2 class="sushi section-title">Sushi</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At blanditiis consequuntur eum, eveniet expedita, explicabo illo iste magnam nisi, non officiis optio pariatur ratione repellendus sequi sit tempore tenetur ullam.</p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
 
